@@ -1,2 +1,3 @@
 # shubham-12
-full stack developer
+shubham
+author-SHUBHAM PATEL
