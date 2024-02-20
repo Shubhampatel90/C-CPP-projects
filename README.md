@@ -1,3 +1,4 @@
 # shubham-12
-shubham
+WElcome in this repositary
+This is my first repository...
 author-SHUBHAM PATEL
